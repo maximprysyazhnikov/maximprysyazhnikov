@@ -1,5 +1,5 @@
 
-GameDev 🎮 • AI Agents 🤖 • DevOps ⚙️ • Cybersecurity 🛡️ • Worldbuilder 🌍
+ • AI Agents 🤖 • DevOps ⚙️ • Cybersecurity 🛡️ • Worldbuilder 🌍
 
 ---
 
@@ -48,7 +48,7 @@ I'm **Maksym Prysyazhnikov**, a multidisciplinary engineer combining:
 | 🛠️ DevOps          | Docker • Bash • GitHub Actions • CI/CD • Kubernetes           |
 | 🔐 Cybersecurity   | SIEM • IDS • Python • SQL • Threat Modelling                  |
 | 🎯 Project Mgmt    | Agile • Scrum • Trello • Gantt • Team Coordination            |
-|--------------------|---------------------------------------------------------------|
+
 
 ---
 
@@ -67,9 +67,8 @@ I'm **Maksym Prysyazhnikov**, a multidisciplinary engineer combining:
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&style=flat-square)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&style=flat-square)
 ![GPT Agents](https://img.shields.io/badge/GPT_Agents-4B0082?logo=openai&logoColor=white&style=flat-square)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&style=flat-square)
+
 
 ---
 
@@ -92,19 +91,20 @@ I'm **Maksym Prysyazhnikov**, a multidisciplinary engineer combining:
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=maximprysyazhnikov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maximprysyazhnikov&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=maximprysyazhnikov&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maximprysyazhnikov&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=maximprysyazhnikov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
