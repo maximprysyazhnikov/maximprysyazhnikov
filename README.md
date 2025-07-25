@@ -73,16 +73,7 @@ I'm **Maksym Prysyazhnikov**, a multidisciplinary engineer combining:
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=maximprysyazhnikov&theme=tokyonight&show_icons=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maximprysyazhnikov&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=maximprysyazhnikov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=maximprysyazhnikov&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -99,6 +90,7 @@ I'm **Maksym Prysyazhnikov**, a multidisciplinary engineer combining:
 >  
 > **I chose the first. Let’s KROK.** 💙
 
+---
 
 
 # 📊 GitHub Stats:
@@ -108,6 +100,13 @@ I'm **Maksym Prysyazhnikov**, a multidisciplinary engineer combining:
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maximprysyazhnikov&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=maximprysyazhnikov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
