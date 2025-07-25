@@ -48,7 +48,7 @@ I'm **Maksym Prysyazhnikov**, a multidisciplinary engineer combining:
 | 🛠️ DevOps          | Docker • Bash • GitHub Actions • CI/CD • Kubernetes           |
 | 🔐 Cybersecurity   | SIEM • IDS • Python • SQL • Threat Modelling                  |
 | 🎯 Project Mgmt    | Agile • Scrum • Trello • Gantt • Team Coordination            |
-
+|--------------------|---------------------------------------------------------------|
 
 ---
 
