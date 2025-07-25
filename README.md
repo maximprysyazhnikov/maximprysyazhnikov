@@ -17,7 +17,7 @@ I'm **Maksym Prysyazhnikov**, a multidisciplinary engineer combining:
 ## ⚙️ Current Projects
 
 - 🧠 **DevOps AI Agent** — an AI-powered automation system for infrastructure ops
-- 🎮 **KROK: Shadow of Unity** — an AI-driven open-world game with lore, factions & $KROK token
+- 🎮 **KROK: Shadow of Unity** — an AI-driven open-world game with lore
 - 🔐 **Security Lab** — real-world application of Python, SQL, SIEM, IDS/IPS
 - 🧪 **MySQL Engineering Series** — backup, monitoring, slow queries, optimization
 
